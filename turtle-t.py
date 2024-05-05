@@ -1,4 +1,4 @@
- #turtle for draw circle
+ #turtle for draw squer
 import turtle
 t = turtle.Turtle()
 bd = turtle.title("Flag Of Bangladesh")
